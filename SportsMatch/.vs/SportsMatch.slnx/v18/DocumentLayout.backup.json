@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itama\\Documents\\GitHub\\Sports-Match\\SportsMatch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D484474D-017E-4ACE-919B-A15BE6EEDCEA}|SportsMatch\\SportsMatch.csproj|c:\\users\\itama\\documents\\github\\sports-match\\sportsmatch\\sportsmatch\\backend\\models\\sportsmatchmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D484474D-017E-4ACE-919B-A15BE6EEDCEA}|SportsMatch\\SportsMatch.csproj|solutionrelative:sportsmatch\\backend\\models\\sportsmatchmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D484474D-017E-4ACE-919B-A15BE6EEDCEA}|SportsMatch\\SportsMatch.csproj|c:\\users\\itama\\documents\\github\\sports-match\\sportsmatch\\sportsmatch\\backend\\models\\dto\\sportsmatchmodelsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D484474D-017E-4ACE-919B-A15BE6EEDCEA}|SportsMatch\\SportsMatch.csproj|solutionrelative:sportsmatch\\backend\\models\\dto\\sportsmatchmodelsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D484474D-017E-4ACE-919B-A15BE6EEDCEA}|SportsMatch\\SportsMatch.csproj|c:\\users\\itama\\documents\\github\\sports-match\\sportsmatch\\sportsmatch\\backend\\data\\clubstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D484474D-017E-4ACE-919B-A15BE6EEDCEA}|SportsMatch\\SportsMatch.csproj|solutionrelative:sportsmatch\\backend\\data\\clubstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D484474D-017E-4ACE-919B-A15BE6EEDCEA}|SportsMatch\\SportsMatch.csproj|c:\\users\\itama\\documents\\github\\sports-match\\sportsmatch\\sportsmatch\\backend\\controllers\\sportsmatchapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D484474D-017E-4ACE-919B-A15BE6EEDCEA}|SportsMatch\\SportsMatch.csproj|solutionrelative:sportsmatch\\backend\\controllers\\sportsmatchapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SportsMatchAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\itama\\Documents\\GitHub\\Sports-Match\\SportsMatch\\SportsMatch\\BackEnd\\Controllers\\SportsMatchAPIController.cs",
+              "RelativeDocumentMoniker": "SportsMatch\\BackEnd\\Controllers\\SportsMatchAPIController.cs",
+              "ToolTip": "C:\\Users\\itama\\Documents\\GitHub\\Sports-Match\\SportsMatch\\SportsMatch\\BackEnd\\Controllers\\SportsMatchAPIController.cs",
+              "RelativeToolTip": "SportsMatch\\BackEnd\\Controllers\\SportsMatchAPIController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:49:35.273Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClubStore.cs",
+              "DocumentMoniker": "C:\\Users\\itama\\Documents\\GitHub\\Sports-Match\\SportsMatch\\SportsMatch\\BackEnd\\Data\\ClubStore.cs",
+              "RelativeDocumentMoniker": "SportsMatch\\BackEnd\\Data\\ClubStore.cs",
+              "ToolTip": "C:\\Users\\itama\\Documents\\GitHub\\Sports-Match\\SportsMatch\\SportsMatch\\BackEnd\\Data\\ClubStore.cs",
+              "RelativeToolTip": "SportsMatch\\BackEnd\\Data\\ClubStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:51:28.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SportsMatchModelsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\itama\\Documents\\GitHub\\Sports-Match\\SportsMatch\\SportsMatch\\BackEnd\\Models\\DTO\\SportsMatchModelsDTO.cs",
+              "RelativeDocumentMoniker": "SportsMatch\\BackEnd\\Models\\DTO\\SportsMatchModelsDTO.cs",
+              "ToolTip": "C:\\Users\\itama\\Documents\\GitHub\\Sports-Match\\SportsMatch\\SportsMatch\\BackEnd\\Models\\DTO\\SportsMatchModelsDTO.cs",
+              "RelativeToolTip": "SportsMatch\\BackEnd\\Models\\DTO\\SportsMatchModelsDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:49:14.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SportsMatchModels.cs",
+              "DocumentMoniker": "C:\\Users\\itama\\Documents\\GitHub\\Sports-Match\\SportsMatch\\SportsMatch\\BackEnd\\Models\\SportsMatchModels.cs",
+              "RelativeDocumentMoniker": "SportsMatch\\BackEnd\\Models\\SportsMatchModels.cs",
+              "ToolTip": "C:\\Users\\itama\\Documents\\GitHub\\Sports-Match\\SportsMatch\\SportsMatch\\BackEnd\\Models\\SportsMatchModels.cs",
+              "RelativeToolTip": "SportsMatch\\BackEnd\\Models\\SportsMatchModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-27T12:49:11.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

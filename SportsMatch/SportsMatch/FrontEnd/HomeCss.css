@@ -1,0 +1,122 @@
+
+
+
+body{
+    background-color: hsl(210 100% 97%);
+}
+
+h1{
+    margin: 0;
+}
+
+img, h1 {
+    min-width: 0;
+    min-height: 0;
+}
+
+.RightImageFlex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.NavigationBarFlex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.NavigationBarLeft{
+    font-family: BBH Sans Bartle, sans-serif;
+    margin-left: 4vw;
+    flex: 1 1 100%;
+    justify-content: bottom;
+}
+
+.MenuIcon{
+    height: 3vh;
+}
+
+
+.RightImage{
+    width: 45vw;
+    height: auto;
+    object-fit: cover;
+    border-radius: 0.9vh;
+    flex: 1 1 0;
+    max-width: none;
+    flex-direction: column;
+    margin-left: 15vw;
+     min-width: 0;
+}
+
+.LeftSection{
+    display: flex;
+    align-items: center;
+    
+}
+
+.LeftSectionText{
+    display: flex;
+    justify-content: center;
+    margin-left: 2vw;
+    flex-direction: column;
+    min-width: 0;
+    align-items: flex-start;
+    
+}
+
+.MainText{
+    flex: 1 1 0%;
+    min-width: 0;
+    font-size: 6vw;
+    font-weight: bold;
+    color: hsl(254 100% 13%);
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 500;
+    margin-left: 5vw;
+}
+#PerfextText{
+    font-family: cookie;
+    font-size: 9vw;
+}
+
+.SubText{
+    flex: 1 1 0%;
+    min-width: 0;
+    font-size: 2.2vw;
+    margin-bottom: 2vh;
+    color: hsl(209 100% 24%);
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 200;
+    margin-left: 5vw;
+}
+
+.FindClubButton{
+    flex: 1 1 auto;
+    width: 13vw;
+    height: 7vh;
+    border-radius: 5vh;
+    border: none;
+    background-color:hsl(210 100% 92%);
+    color: hsl(209 100% 24%);
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 800;
+    font-size: 2.5vh;
+    transition: all 0.5s ease;
+    margin-left: 5vw;
+    margin-top: 3vh;
+}
+.FindClubButton:hover{
+    color: hsl(209 100% 24%);
+    background-color: hsl(210 100% 100%);
+    cursor: pointer;
+}
+
+
+@media (max-width: 600px) {
+    .FindClubButton{
+        font-size: 2vh;
+    }
+}
