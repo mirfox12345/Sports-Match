@@ -1,4 +1,6 @@
-
+*{
+    box-sizing: border-box;
+}
 
 
 body{
@@ -7,6 +9,17 @@ body{
 
 h1{
     margin: 0;
+}
+
+a{
+     text-decoration: none;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 30px 5%;
 }
 
 img, h1 {
@@ -29,9 +42,14 @@ img, h1 {
 
 .NavigationBarLeft{
     font-family: BBH Sans Bartle, sans-serif;
-    margin-left: 4vw;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin-right: auto;
+    padding: 0 auto;
     flex: 1 1 100%;
+    color: black;
     justify-content: bottom;
+    cursor: pointer;
 }
 
 .MenuIcon{

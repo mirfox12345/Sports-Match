@@ -1,3 +1,6 @@
+{% load static %}
+<link rel="stylesheet" href="{% static 'HomeCss.css' %}">
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,12 +18,12 @@
 
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sports Match</title>
+    <title>Sports Matches</title>
     <link rel="stylesheet" href="HomeCss.css">
 </head>
 <body>
     <header class="NavigationBarFlex">
-        <p class="NavigationBarLeft">Sports Match</p>
+        <a href="discover/"><p class="NavigationBarLeft">Sports Matches</p></a>
 
     </header>
 
@@ -30,12 +33,12 @@
             <h1 class="MainText" id="PerfextText">perfect</h1>
             <h1 class="MainText">club for you</h1>
             <p class="SubText">Explore the wide variety of <br>clubs in your area</p>
-            <button class="FindClubButton">Find Clubs</button>
+            <a href="discover/"><button class="FindClubButton">Find Clubs</button></a>
         </div>
 
 
         <div class="RightImageFlex">
-            <img src="Images/HomeRightImageTennis.png" alt="Tennis" class="RightImage">
+            <img src="{% static 'Images/HomeRightImageTennis.png' %}" class="RightImage" alt="Tennis">
         </div>
     </section>
 </body>
