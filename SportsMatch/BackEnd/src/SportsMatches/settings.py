@@ -60,7 +60,7 @@ ROOT_URLCONF = 'SportsMatches.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['/Users/ithamarezra/Documents/GitHub/Sports-Match/SportsMatch/FrontEnd/'],
+        'DIRS': ['/Users/ithamar/Documents/GitHub/Sports-Match/SportsMatch/FrontEnd/'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
@@ -122,5 +122,5 @@ USE_TZ = True
 
 STATIC_URL = 'static/'
 STATICFILES_DIRS = [
-    BASE_DIR / "/Users/ithamarezra/Documents/GitHub/Sports-Match/SportsMatch/FrontEnd/",
+    BASE_DIR / "/Users/ithamar/Documents/GitHub/Sports-Match/SportsMatch/FrontEnd/",
 ]
